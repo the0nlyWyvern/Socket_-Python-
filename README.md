@@ -62,6 +62,8 @@
 | client | ![Correct IP](Screenshots/step4b.png)                     |
 | server | ![Connect to server successfully](Screenshots/step4c.png) |
 
+- I will explain in Stage 2 of "./socket_server/README.md"
+
 #### Step 5 - Important keywords
 
 `-quit`: Server will receive message then close the connection.
