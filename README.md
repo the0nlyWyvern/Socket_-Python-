@@ -57,11 +57,10 @@
 ![Wrong IP](Screenshots/step4a.png)
 : Type wrong IP: `192.111.66.6`, it will took 30 seconds before showing `CONNECTION FAILED`
 
-![Correct IP](Screenshots/step4b.png)
-: Type the correct Server IP, a welcome screen will appear on client screen
-
-![Connect to server successfully](Screenshots/step4c.png)
-: on Server screen
+|        | Type the correct Server IP                                |
+| ------ | --------------------------------------------------------- |
+| client | ![Correct IP](Screenshots/step4b.png)                     |
+| server | ![Connect to server successfully](Screenshots/step4c.png) |
 
 #### Step 5 - Important keywords
 

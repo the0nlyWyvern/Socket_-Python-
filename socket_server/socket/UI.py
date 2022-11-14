@@ -6,7 +6,7 @@ def welcome(SERVER_NAME: str, SERVER_IP: str) -> str:
 |\t SERVER NAME: {SERVER_NAME} \t\t\t|
 |\t SERVER IP: {SERVER_IP} \t\t\t|
 |                                                       |
-|\t\t Đề 1: Tỷ Giá Vàng Việt Nam\t\t|
+|\t\t GOLD RATE IN VIETNAM\t\t|
 |                                                       |
 |\t Authors: 19120557 - Trần Tuấn Kiệt\t\t|
 |                                                       |
